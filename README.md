@@ -1,5 +1,6 @@
 # 参考リンク
 [Laravelのルーティングとは（徹底解説）](https://kinsta.com/jp/blog/laravel-routes/)
+
 [laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices/blob/master/japanese.md)
 
 
